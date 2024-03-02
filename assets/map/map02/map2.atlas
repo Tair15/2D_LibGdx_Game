@@ -1,0 +1,15 @@
+map2.png
+size:1024,256
+repeat:none
+FieldsTileset
+bounds:256,0,256,256
+FieldsTilesetTest
+bounds:0,0,256,256
+Grass01
+bounds:512,160,32,32
+Grass02
+bounds:544,224,32,32
+Stone01
+bounds:512,224,32,32
+StoneTop01
+bounds:512,192,32,32

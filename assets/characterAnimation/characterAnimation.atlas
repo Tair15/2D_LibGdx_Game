@@ -1,0 +1,5 @@
+characterAnimation.png
+size:256,256
+repeat:none
+slime
+    bounds:0,0,224,160

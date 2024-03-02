@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="7" height="7" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="slime.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="7" height="7">
+  <data encoding="base64" compression="zlib">
+   eJydwwkWQgAUAMBPSoosJaJFuv8dmzOY9yaJiNSdmXsP5h4tPHm2tPJibWNr59WbvXcHRx9Ozj59+fbj4tfVX2z3BwQLAnc=
+  </data>
+ </layer>
+</map>

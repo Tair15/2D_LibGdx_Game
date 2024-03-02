@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="22">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <tileset firstgid="257" source="../../character/slime.tsx"/>
+ <layer id="1" name="ground" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENACEMBEH3H7iXL40OyJGeDIF0E0xykVdyV1UDAAAAAAAAAAAAAAAAAE8ZG9/i9q2n+v92/bn9rT+6P/3/9Wf0T0rP7DI=
+  </data>
+ </layer>
+ <objectgroup id="4" name="collision">
+  <object id="9" x="222" y="1884">
+   <polyline points="0,0 -28,4 -29.3333,-62 -190,-59.3333 -190,163.333 -30,163.333 -30,68 -2.66667,69.3333"/>
+  </object>
+  <object id="10" x="80" y="1954.67" width="65.3333" height="46.6667"/>
+ </objectgroup>
+ <objectgroup id="5" name="playerStartLocation">
+  <object id="6" x="128" y="1920">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="11" name="gameObjects"/>
+</map>
